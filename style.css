@@ -1,0 +1,45 @@
+body{
+  text-align: center;
+  background-color:#7A86B6;
+
+}
+#container{
+  padding:10px;
+  text-align: center;
+  border:3px solid #A10035;
+  border-radius:15px;
+  display:inline-block;
+
+
+}
+#field{
+  width:50%;
+  height:45px;
+}
+h1{
+  text-align:center;
+  color:#F2D1D1;
+  font-family: 'Pacifico', cursive;
+}
+.digit:hover{
+background-color:#820000;
+
+}
+.operator:hover{
+background-color:#820000;
+
+}
+
+.digit,.operator{
+  margin:5px;
+  background-color:#411530;
+  border-radius:10px;
+  border-color:white;
+  color: white;
+  padding:7px 12px;
+  text-align: center;
+  text-decoration:none;
+  display:inline-block;
+  font-size: 30px;
+
+}
